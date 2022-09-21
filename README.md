@@ -1,2 +1,2 @@
-# my_repository_Java-Programming-ll
+# my_repo-group2
 my first repository for group 2
